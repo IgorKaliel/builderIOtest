@@ -13,4 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 I started modifying `pages/index.tsx` to `pages/[[..page]].tsx`.
 
 
+
+
 ## BuilderIO considerations
+
+`...`
